@@ -1,0 +1,8 @@
+{
+  "name": "dev-squad",
+  "description": "Spins up a full AI dev team to implement GitHub issues end-to-end and deliver a PR",
+  "author": {
+    "name": "Brianna Workman",
+    "email": "hello.briworkman@gmail.com"
+  }
+}
